@@ -1,5 +1,21 @@
 package discordBot.listeners;
 
-public class MessageResponder {
+import net.dv8tion.jda.core.events.message.MessageReceivedEvent;
+import net.dv8tion.jda.core.hooks.ListenerAdapter;
 
+public class MessageResponder extends ListenerAdapter{
+
+	@Override
+	public void onMessageReceived(MessageReceivedEvent event) {
+		// TODO Auto-generated method stub
+		String msg = event.getMessage().getContentRaw();
+		
+		if(msg.startsWith("!tripaloski")){
+			String name = event.getAuthor().getName();
+			
+			String response = " https://clips.twitch.tv/HedonisticInexpensiveSharkBCouch";
+			
+			event.getTextChannel().sendMessage(response).queue();
+		}
+	}
 }

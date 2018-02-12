@@ -551,3 +551,7 @@
 2018-02-12 13:38:26,371 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Jorge\DAM\GitHub\Javacord\src\main\resources
 2018-02-12 13:38:26,372 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-02-12 13:38:26,372 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Jorge\DAM\GitHub\Javacord\src\test\resources
+2018-02-12 15:38:12,101 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 15:38:12,102 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Jorge\DAM\GitHub\Javacord\src\main\resources
+2018-02-12 15:38:12,103 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 15:38:12,103 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Jorge\DAM\GitHub\Javacord\src\test\resources

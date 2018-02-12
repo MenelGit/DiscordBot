@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.dv8tion.jda.core.JDABuilder"/>
+<fullyQualifiedTypeName name="net.dv8tion.jda.core.AccountType"/>
+<fullyQualifiedTypeName name="discordBot.Constants"/>
+<fullyQualifiedTypeName name="net.dv8tion.jda.core.hooks.ListenerAdapter"/>
+<fullyQualifiedTypeName name="discordBot.listeners.MessageResponder"/>
+</qualifiedTypeNameHistroy>
